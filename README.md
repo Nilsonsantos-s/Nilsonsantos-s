@@ -1,8 +1,7 @@
-### Olá! 👋
-
-- Morador de São Paulo, tenho 20 anos e sou estudante de Gestão de Tecnologia da Informação.
-- Atualmente estou aprendendo Python e MySQL.
-- Aqui irei colaborar com projetos!
+### Olá!
+- Morador de São Paulo, 21 anos, estudante de Gestão da Tecnologia da Informação
+- Programador Python
+- Determinação, constância e foco = resultado
 
 
  <div>
