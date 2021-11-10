@@ -1,7 +1,7 @@
 ## Olá! :wave:
-#### - Morador de São Paulo, 21 anos, estudante de Gestão da Tecnologia da Informação
-#### - Programador Python :technologist:
-#### - Determinação, constância e foco == resultado :muscle:
+- #### Meu nome é Nilson Santos, tenho 21 anos e sou estudante de Gestão da Tecnologia da Informação
+- #### Aspirante a Programador Python :technologist:
+- #### Determinação, constância e foco == resultado :muscle:
 ___
 ### Minhas redes
 
