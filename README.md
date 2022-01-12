@@ -1,8 +1,8 @@
 <h2> Olá! :wave:</h2>
 <p>
-<li>Meu nome é Nilson Santos, tenho 21 anos e sou estudante de Gestão da Tecnologia da Informação</li>
-<li>Programador Python :technologist:</li>
-  <li>Determinação, constância e foco == resultado :muscle:</li>
+<li><strong>Meu nome é Nilson Santos, tenho 21 anos e sou estudante da Ciência de Dados</strong>
+<li><strong>Programador Python</strong>
+  <li><strong>Determinação, constância e foco == resultado :muscle:</strong>
 <p/>
 
 ___
@@ -16,8 +16,8 @@ ___
 <h3> Meus status</h3>
  <div>
   <a href="https://github.com/Nilsonsantos-s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilsonsantos-s&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilsonsantos-s&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilsonsantos-s&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsonsantos-s&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
  ___
@@ -25,4 +25,4 @@ ___
   
  ![Snake animation](https://github.com/nilsonsantos-s/nilsonsantos-s/blob/output/github-contribution-grid-snake.svg)
   
-  
+  https://github-readme-stats.vercel.app/
