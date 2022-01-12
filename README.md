@@ -25,4 +25,3 @@ ___
   
  ![Snake animation](https://github.com/nilsonsantos-s/nilsonsantos-s/blob/output/github-contribution-grid-snake.svg)
   
-  https://github-readme-stats.vercel.app/
