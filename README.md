@@ -1,6 +1,6 @@
 <h2> Olá! :wave:</h2>
 <p>
-<li><strong>Meu nome é Nilson Santos, tenho 21 anos e sou estudante da Ciência de Dados</strong>
+<li><strong>Meu nome é Nilson Santos, tenho 21 anos e sou estudante de Gestão da Tecnologia da Informação</strong>
 <li><strong>Programador Python</strong>
   <li><strong>Determinação, constância e foco == resultado :muscle:</strong>
 <p/>
